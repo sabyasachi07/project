@@ -73,8 +73,9 @@
             scanf("%f",&s.addr);
 	    getc(stdin);fflush(stdin);
 
-	    
-			
+	 printf("\n Enter the character");    
+    	        scanf("%c",&s.sex);
+           getc(stdin);fflush(stdin);
 
 
             
